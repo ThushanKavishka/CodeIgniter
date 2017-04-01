@@ -134,7 +134,7 @@ switch (ENVIRONMENT)
 
 /*
  * --------------------------------------------------------------------
- * DEFAULT CONTROLLER
+ * DEFAULT CONTROLLER...
  * --------------------------------------------------------------------
  *
  * Normally you will set your default controller in the routes.php file.
